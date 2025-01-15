@@ -29,7 +29,7 @@ public class EmergencyInputActivity extends AppCompatActivity {
     private TextInputEditText etEmergencyInput;
     private TextView tvGuidelines;
     private Interpreter tflite;
-    private static final String API_KEY = "CcNSzNCzxLTl3inUrzjR5Ji8S7keDeuCc3OaJmWG";
+    private static final String API_KEY = "Insert API Key";
     private static final String API_URL = "https://api.cohere.ai/v1/generate";
     private final OkHttpClient client = new OkHttpClient.Builder()
             .connectTimeout(30, TimeUnit.SECONDS)
