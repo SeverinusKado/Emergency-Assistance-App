@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MedNow Application</string>
+    <string name="briefly_describe_the_situation_optional">Briefly describe the situation (optional)</string>
+    <string name="get_first_aid_guidelines">Get First Aid Guidelines</string>
+    <string name="select_emergency_type">Select Emergency Type</string>
+    <string name="report_emergency">Report Emergency</string>
+    <string name="call_professional">Call Professional</string>
+    <string name="find_nearby_hospitals">Find Nearby Hospitals</string>
+    <string name="emergency_assistance">Emergency Assistance</string>
+    <string name="available_doctors">Available Doctors</string>
+    <string name="call">Call</string>
+    <string name="mednow">MedNow</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="welcome_to_mednow">Welcome to MedNow!</string>
+    <string name="name">Name</string>
+    <string name="describe_the_emergency">Describe the Emergency</string>
+    <string name="what_s_happening_describe_the_situation">What\'s happening? Describe the situation...</string>
+    <string name="first_aid_guidelines">First Aid Guidelines</string>
+    <string name="available_hours">Available Hours</string>
+
+    <!-- Emergency Types Array -->
+    <string-array name="emergency_types">Emergency Types
+       >
+        <item>Allergic Reaction</item>
+        <item>Heat Stroke</item>
+        <item>Hypothermia</item>
+        <item>Seizure</item>
+        <item>Drowning</item> <item>Cardiac Arrest</item>
+        <item>Severe Bleeding</item>
+        <item>Burns</item>
+        <item>Choking</item>
+        <item>Fracture or Dislocation</item>
+        <item>Poisoning</item>
+        <item>Stroke</item>
+        <item>Electric Shock</item>
+        <item>Head Injury</item>
+        <item>Asthma Attack</item>
+        <item>Diabetic Emergency</item>
+        <item>Snake Bite</item>
+        <item>Other</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551812007691",
+    "project_id": "mednow-c9568",
+    "storage_bucket": "mednow-c9568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551812007691:android:788801d72cb392dbc5440e",
+        "android_client_info": {
+          "package_name": "com.example.mednow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FX1l-v_wG0oc1s--PX2C2UddoGXdAFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
